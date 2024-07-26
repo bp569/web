@@ -1,17 +1,14 @@
 ---
 # Display name
-title: 吳健雄
+title: Dr. Bhumi Purohit
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Bhoo-me Poo-row-hit
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Bhumi 
+last_name: Purohit
 
-# Status emoji
-status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +17,38 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: McCourt School of Public Policy, Georgetown University
+    url: https://mccourt.georgetown.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:bp569@georgetown.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://twitter.com/bhumipurohit
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Gender & Politics
+  - Governance
+  - Political Behavior
 
-education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Assistant Professor of Public Policy at Georgetown’s McCourt School. I focus on comparative politics, political behavior, and Indian politics.  
+
+The primary objective of my research is to understand the behavioral and institutional barriers to women's political representation. I am motivated by questions such as: why do women's interests remain under-represented in politics, even with parity of electoral representation? How do gender biases about women politicians affect public service delivery outcomes in women’s constituencies? Additionally, a secondary research agenda focuses on answering the question: how do institutional norms influence the behavior of bureaucrats and politicians? I situate my research in South Asia and employ multi-method research techniques, including primary surveys, experimental work, and in-depth qualitative fieldwork.
+
+My first book project titled _Gendered Bureaucratic Resistance: How Women Politicians Navigate the Bureaucracy_, based on my dissertation, examines how bureaucrats' explicit and implicit gender biases, combined with their career incentives, drive bureaucratic resistance—bureaucrats' refusal to aid in policy implementation. Bureaucratic resistance particularly impacts female politicians, and subsequently leads to worse public service delivery outcomes in their constituencies. While existing research has studied the impact of political parties and voters in limiting women politicians’ electoral advancement, my project provides the first theoretical and empirical account elucidating why and how bureaucracies create barriers for women once they are elected to office. In 2020, this project received an Honorable Mention from the [Carrie Chapman Catt Prize]([url](https://cattcenter.iastate.edu/research/catt-prize/past-winners/)) for Research on Women and Politics and in 2022, the [Empirical Study of Gender Research Network Prize]([url](http://www.egenpolisci.org/past-prize-winners.html)). It further received American Political Science Association (APSA)’s [William Anderson Award]([url](https://politicalsciencenow.com/bhumi-purohit-receives-the-2023-william-anderson-award/)) for the best dissertation in the general field of federalism or intergovernmental relations, state, and local politics, and APSA’s Women, Gender, and Politics Section’s [Best Dissertation Award]([url](https://connect.apsanet.org/s16/non-working/section-awards/)) in 2023.
+
+My second research agenda focuses on the behavioral and institutional challenges to public service delivery. In a co-authored book project, _Public Financial Management, State Capacity, and Public Services in India_, Santhosh Mathew, Devesh Sharma, and I examine how a poorly designed public expenditure system in India guides the behavior of politicians and bureaucrats in a way that harms public service delivery. 
+
+Prior to Georgetown, I was a Postdoctoral Research Associate in the Princeton School of Public and International Affairs, with a joint appointment in the Department of Psychology.  I received my Ph.D. in Political Science from the University of California, Berkeley. Prior to coming to Berkeley, I worked as a J-PAL Policy Consultant for the Ministry of Rural Development in India to create policy implementation plans for finance management reforms and rural poverty reduction. I have additional experience with managing experiments and research with One Acre Fund in Kenya and running social enterprises in India and Sierra Leone. I hold a Master’s degree in Area Studies with distinction from the University of Oxford, with a concentration on Modern South Asia. Prior to that, I graduated from Duke University with a Bachelor’s degree in Public Policy and a certificate in Documentary Film Making.
