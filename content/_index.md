@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: https://www.dropbox.com/scl/fi/z76vj8kb6bueku5r3p7kj/Purohit_Curriculum_Vitae.pdf?rlkey=1rfh83mhhq6g6lrazcy451kdd&dl=0
     design:
       css_class: dark
       background:
